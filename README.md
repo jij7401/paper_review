@@ -13,3 +13,8 @@
   - DCGAN: 21.07.05 ~ 21.07.07
   - CycleGAN: 21.07.08 ~
   
+## Review for AutoEncoder
+  
+  - AutoEncoder
+  - Stacked AutoEncoder
+  - Denoising AutoEncoder
