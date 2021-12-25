@@ -1,16 +1,16 @@
 Deep Anomaly Detection Using Geometric Transformations
 ======================================================
 
-* #####*논문에서 제시된 아이디어 정리 (3-5줄 이내)*   
+* ##### *논문에서 제시된 아이디어 정리 (3-5줄 이내)*   
   * 입력 이미지에 대해서 기하학적인 transformation(flip, rotate 등)을 적용한 self labeled 데이터로   
     classifier를 학습시키고 classifier가 매긴 score값으로 정상, 비정상을 판단함.
 
     
-* #####*학습 코드 링크 첨부*   
+* ##### *학습 코드 링크 첨부*   
   * https://github.com/izikgo/AnomalyDetectionTransformations
 
-* #####*다음 질문의 대한 답변 작성*   
-  ######(1) 저자가 뭘하고 싶은건지?
+* ##### *다음 질문의 대한 답변 작성*   
+  ###### (1) 저자가 뭘하고 싶은건지?
   * 저자가 본 논문을 통해서 normal data를 기하학적으로 변환시킨 결과물을 가지고 classifier가   
     이미지에 적용된 transformation이 무엇인지 잘 구분하도록 학습하면 정상 데이터의 뚜렷한 feature를 얻고자 함.
 
