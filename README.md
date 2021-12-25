@@ -18,3 +18,6 @@
   - AutoEncoder
   - Stacked AutoEncoder
   - Denoising AutoEncoder
+
+## Review for Anomaly Detection
+  - 차후 업데이트 예정 (21년 후반기 공부)
