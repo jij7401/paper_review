@@ -1,23 +1,12 @@
 # Paper for Deep Learning Review
 
-## Review for Object detection  
-  
-  - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks: 21.05.16~21.05.19
-  - Yolo V1 ~ V5 : 21.06.21 ~ 
+논문을 정리할 때 아래와 같은 순서로 작성하여 정리할 예정.
 
-## Review for GAN
-
-  - GAN: 21.06.21 ~ 21.06.23
-  - Contional GAN: 21.06.23 ~ 21.06.25
-  - Pix2Pix: 21.06.25 ~ 21.06.28
-  - DCGAN: 21.07.05 ~ 21.07.07
-  - CycleGAN: 21.07.08 ~
-  
-## Review for AutoEncoder
-  
-  - AutoEncoder
-  - Stacked AutoEncoder
-  - Denoising AutoEncoder
-
-## Review for Anomaly Detection
-  - 차후 업데이트 예정 (21년 후반기 공부)
+1. 논문에서 제시된 아이디어 정리 (3-5줄 이내)
+2. 학습 코드 open 시 링크 달아놓기
+3. 다음 질문의 대한 답변 작성
+   ###### 저자가 뭘하고 싶은건지?
+   ###### 연구에서 제시된 중요한 접근 요소는 무엇인지?
+   ###### 모델의 loss의 의미를 정확히 이해했는지?
+4. 코드 리뷰
+   
