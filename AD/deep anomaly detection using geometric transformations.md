@@ -21,7 +21,7 @@ Deep Anomaly Detection Using Geometric Transformations
   
   ###### (3) 모델의 loss의 의미를 정확히 이해했는지?
    * 이미지에 적용한 transformation T_i에 대해 Ti(x)에 대한 로그 최대 가능도를 더한 값으로 정의함   
-     -> 모델이 도출한 각 transformation에 대한 예측값 __(softmax 값들 중 최댓값에 대한 확률분포를 구한다.)__에 대해 
+     -> 모델이 도출한 각 transformation에 대한 예측값 __(softmax 값들 중 최댓값에 대한 확률분포를 구한다.)__ 에 대해 
         실제 label과의 차이를 계산함. 그렇게 나오는 오차를 줄여 나가는 방식으로 학습을 진행함.
    * 추가로 dirichlet 분포를 사용하여 효율적으로 로그 최대 우도법을 도출하도록 함. <br></br>
    <img src="asset/img_1_1.png" width="300px" height="100px" title="px(픽셀) 크기 설정" alt="loss"></img>
