@@ -1,11 +1,11 @@
 Anomaly Detection By One Class Latent Regularized Networks
 ==========================================================
 
-* ##### *논문에서 제시된 아이디어 정리 (3-5줄 이내)*   
+* ### *논문에서 제시된 아이디어 정리 (3-5줄 이내)*   
   기존 GAN과 Autoencoder 구조를 개선하여 모델이 normal data에 대한 latent feature를 제대로 뽑게 하여 
   그 동안 학습 process에서 발생했던 G와 D 사이의 불균형 문제를 해소 시켜 Normal data에 대한 recon'을 잘하도록 개선하였음.
 
-* ##### *다음 질문의 대한 답변 작성*   
+* ### *다음 질문의 대한 답변 작성*   
   ###### (1) 저자가 뭘하고 싶은건지?
   저자는 어떻게 하면 안정적인 학습 과정 속에서 normal과 abnormal data 사이의 latent representation feature에 대한 차이점을 잘 분리 시키길 원함.
 
